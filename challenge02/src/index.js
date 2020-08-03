@@ -21,7 +21,7 @@ ReactDOM.render(
      <h1 className = "heading">This is Gaurav Singh</h1>
      <h4>Today date is {day+"/"+month+"/"+year} </h4>
      <h4>Current Time is {hour+":"+min+":"+sec} </h4>
-
+   
      <img src = {img1} alt="random img"/>
      <img src = {img2} alt="random img"/>
      <img src = {img3} alt="random img"/>
