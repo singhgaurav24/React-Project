@@ -1,11 +1,12 @@
 import React from 'react';
 import RecatDOM from 'react-dom';
 
-
+import App from './App';
 
 RecatDOM.render(
-  <React.Fragment>
-    <h1>Gaurav Kumar Singh</h1>
-  </React.Fragment>,
+  <>
+    <App></App>
+
+  </>,
   document.getElementById('root')
 );
